@@ -1,0 +1,1 @@
+// Return a default node
